@@ -218,7 +218,7 @@ export const handleWebSocketConnection = (connection, req, OPENAI_API_KEY) => {
   
     try {
       await writeFile("conversation_recording.raw", completeAudioBuffer);
-      console.log("Conversation recording saved as conversation_recording.wav");
+      console.log("Conversation recording saved as conversation_recording.raw");
     } catch (error) {
       console.error("Error saving the audio recording:", error);
     }
