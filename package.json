@@ -1,0 +1,20 @@
+{
+  "name": "devanish",
+  "version": "1.0.0",
+  "description": "deVanish stands for depression Vanish. With the help of generative AI, retrieval augmented generation, and machine learning, we want to help people with depression and consult them with the right person.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathpaljyoti/deVanish.git"
+  },
+  "author": "Jyoti Mathpal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathpaljyoti/deVanish/issues"
+  },
+  "homepage": "https://github.com/mathpaljyoti/deVanish#readme"
+}
