@@ -5,3 +5,8 @@ deVanish stands for depression Vanish. With the help of generative AI, retrieval
 
 Jyoti Mathpal
 Sarita Kumari
+
+# For testing 
+
+Please send mail us with your number we will add it to verified id and than you can call to the AI bot.
+Contact: negid0253@gmail.com
